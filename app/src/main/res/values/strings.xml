@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ZKUtility</string>
+
+    <string name="NetworkAlert" >Network Alert</string>
+    <string name="No_Internet_connection_detected" >No Internet connection detected</string>
+
+</resources>
